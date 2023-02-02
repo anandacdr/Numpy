@@ -3,3 +3,5 @@ import jupyterthemes as jt
 from jupyterthemes.stylefx import set_nb_theme
 
 set_nb_theme('monokai')
+
+set_nb_theme('chesterish')
